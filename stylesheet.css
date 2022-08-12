@@ -1,0 +1,196 @@
+body{
+    margin: 0;
+
+
+}.main-body{
+width: 100%;
+height: 2100px;
+background:#fff;
+
+
+
+}
+
+.header-bkg{
+
+    background-image: url("img/bkg.png");
+    width: 100%;
+    height: 817px;
+    
+}
+
+
+
+.header{
+height: 800px;
+margin: auto;
+width: 90%;
+padding: 10px;
+
+}
+.contact{
+    width: 100%;
+    height: auto;
+    color: #d7d7d7;
+    font-size: .75em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    padding: 2% 0% 1% 0%;
+    font-weight: normal;
+}
+
+.banner-img{
+    width: 100%;
+    height: 100%;
+
+}
+
+
+ul{float: right;
+    list-style: none;
+    display:flex;
+   padding-right: 50px;
+}
+
+li{
+   color:black;
+   padding-left: 30px;
+   font-family: 'ido-MyriadProRegular',Arial, Helvetica, sans-serif;
+   
+}
+
+li:hover{
+background:#017299; 
+
+
+}
+.menu{width: 100%;
+    float: right;
+position: relative;
+
+    font-weight: normal;
+    background: #d7d7d7;
+
+}
+
+.logo{
+    position: absolute;
+    left: 10%;
+    top: 1%;
+
+    
+  
+}
+
+
+
+.content{
+    height: 800px;
+    margin: auto;
+    width: 90%;
+    padding: 10px;
+    
+    }
+
+.serices{
+    height: 800px;
+    margin: auto;
+    width: 90%;
+    padding: 10px;
+
+
+
+}
+
+.imagesize{
+
+    width: 250px;
+    height: 250px;
+}
+
+img{
+    padding-right: 5px;
+
+}
+
+
+.texts{
+    float: left;
+}
+
+.text1{
+    float: left;
+    width: 50%;
+
+}
+.text2{
+    float: left;
+    width: 25%;
+}
+.text3{
+    float: left;
+    width: 25%;
+}
+
+
+h2{
+    float: left;
+    margin-right: 15%;
+    font-size:1.3em; font-family: 'ido-MyriadProRegular',Arial, Helvetica, sans-serif; color:#017299; text-transform: uppercase; border-left:3px solid #8aba46; padding:1% 0% 1% 1%; font-weight:normal;
+
+}
+
+
+
+.paragraph{
+    margin-top: 20px;
+}
+
+
+.testimony{
+    float: left;
+}
+
+.footer{
+width: 100%;
+height: 150px;
+background:black ;
+
+}
+
+.view{
+width: 100px;
+height: 25px;
+
+font-family: 'ido-MyriadProRegular',Arial, Helvetica, sans-serif;
+color: #fff;
+padding: 2% 3% 2% 3%;
+background: #8aba46;
+margin: 2% 0% 3% 3%;
+text-decoration: none;
+}
+
+.view:hover{
+background:#017299;
+
+}
+
+.footer-menu ul{
+float: left;
+padding-left: 300px;
+
+}
+
+.footer-menu ul li{
+
+color: #fff;
+text-align: center;
+align-content: center;
+
+}
+
+.social-media{
+float: right;
+margin-top: 350px;
+}
+
